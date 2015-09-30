@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書傳
-#+DATE: 2015-09-23 09:35:50
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:01:32.919885
+#+PROPERTY: ID KR1b0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1b0006_WYG_013-1a>¶
 欽定四庫全書¶
 　書傳卷十三　　　　　　宋　蘇軾　撰¶
@@ -416,4 +418,3 @@
 在十有二月惟周公誕保文武受命惟七年¶
 　¶
 　書傳卷十三¶
-

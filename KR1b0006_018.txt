@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 書傳
-#+DATE: 2015-09-23 09:35:50
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:01:33.015401
+#+PROPERTY: ID KR1b0006
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1b0006_WYG_018-1a>¶
 欽定四庫全書¶
 　書傳卷十八　　　　　　宋　蘇軾　撰¶
@@ -146,4 +148,3 @@
 　¶
 　¶
 　書傳卷十八¶
-
